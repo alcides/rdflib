@@ -1,140 +1,0 @@
-10
-
-dir
-1804
-http://rdflib.googlecode.com/svn/trunk/test/rdf
-http://rdflib.googlecode.com/svn
-
-
-
-2010-02-03T21:49:41.127284Z
-1777
-gromgull
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4f84a9ca-5c3e-0410-8a68-0bdf370325d5
-
-rdfms-rdf-names-use
-dir
-
-rdfms-xml-literal-namespaces
-dir
-
-rdfms-uri-substructure
-dir
-
-Manifest.rdf
-file
-
-
-
-
-2010-11-05T17:58:35.000000Z
-a0d8941add293253e2c8688e82e57152
-2010-02-03T21:49:41.127284Z
-1777
-gromgull
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-230369
-
-amp-in-url
-dir
-
-rdfms-reification-required
-dir
-
-rdf-ns-prefix-confusion
-dir
-
-rdf-containers-syntax-vs-schema
-dir
-
-rdfms-duplicate-member-props
-dir
-
-xmlbase
-dir
-
-xml-canon
-dir
-
-rdfms-difference-between-ID-and-about
-dir
-
-rdfms-syntax-incomplete
-dir
-
-rdf-element-not-mandatory
-dir
-
-rdfms-para196
-dir
-
-rdfs-domain-and-range
-dir
-
-datatypes
-dir
-
-rdfms-not-id-and-resource-attr
-dir
-
-rdfms-seq-representation
-dir
-
-rdfms-identity-anon-resources
-dir
-
-rdfms-empty-property-elements
-dir
-
-rdf-charmod-literals
-dir
-
-rdfms-abouteach
-dir
-
-rdf-charmod-uris
-dir
-
-unrecognised-xml-attributes
-dir
-
-rdfms-xmllang
-dir
-
-rdfms-rdf-id
-dir
-
