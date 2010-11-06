@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1777/trunk/test/rdf/rdfs-domain-and-range
+END
+test001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1777/trunk/test/rdf/rdfs-domain-and-range/test001.nt
+END
+test002.nt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1777/trunk/test/rdf/rdfs-domain-and-range/test002.nt
+END
+test001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1777/trunk/test/rdf/rdfs-domain-and-range/test001.rdf
+END
+test002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1777/trunk/test/rdf/rdfs-domain-and-range/test002.rdf
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1764/trunk/rdflib/sparql/bison
+END
+SPARQLEvaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1614/trunk/rdflib/sparql/bison/SPARQLEvaluate.py
+END
+SolutionModifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1764/trunk/rdflib/sparql/bison/SolutionModifier.py
+END
+Bindings.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1614/trunk/rdflib/sparql/bison/Bindings.py
+END
+Expression.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Expression.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/__init__.py
+END
+GraphPattern.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1764/trunk/rdflib/sparql/bison/GraphPattern.py
+END
+QName.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/QName.py
+END
+Query.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1724/trunk/rdflib/sparql/bison/Query.py
+END
+FunctionLibrary.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/FunctionLibrary.py
+END
+Util.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Util.py
+END
+Operators.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Operators.py
+END
+Processor.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1672/trunk/rdflib/sparql/bison/Processor.py
+END
+IRIRef.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/IRIRef.py
+END
+Triples.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Triples.py
+END
+Filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Filter.py
+END
+Resource.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1608/trunk/rdflib/sparql/bison/Resource.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1804/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1488/trunk/LICENSE
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1438/trunk/ez_setup.py
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1669/trunk/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1756/trunk/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1591/trunk/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1488/trunk/README
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1787/trunk/run_tests.py
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1662/trunk/setup.cfg
+END

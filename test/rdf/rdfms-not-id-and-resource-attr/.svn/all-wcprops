@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr
+END
+test001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test001.nt
+END
+test002.nt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test002.nt
+END
+test004.nt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test004.nt
+END
+test005.nt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test005.nt
+END
+test001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test001.rdf
+END
+test002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test002.rdf
+END
+test004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test004.rdf
+END
+test005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-not-id-and-resource-attr/test005.rdf
+END

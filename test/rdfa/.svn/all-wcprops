@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1795/trunk/test/rdfa
+END
+oreilly.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1726/trunk/test/rdfa/oreilly.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1691/trunk/test/rdfa/__init__.py
+END
+run_w3c_rdfa_testsuite.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1795/trunk/test/rdfa/run_w3c_rdfa_testsuite.py
+END
+non_xhtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1727/trunk/test/rdfa/non_xhtml.py
+END

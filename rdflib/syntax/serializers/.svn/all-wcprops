@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1803/trunk/rdflib/syntax/serializers
+END
+N3Serializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1803/trunk/rdflib/syntax/serializers/N3Serializer.py
+END
+XMLSerializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1488/trunk/rdflib/syntax/serializers/XMLSerializer.py
+END
+NTSerializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1759/trunk/rdflib/syntax/serializers/NTSerializer.py
+END
+QNameProvider.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1438/trunk/rdflib/syntax/serializers/QNameProvider.py
+END
+XMLWriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1707/trunk/rdflib/syntax/serializers/XMLWriter.py
+END
+AbstractSerializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1530/trunk/rdflib/syntax/serializers/AbstractSerializer.py
+END
+turtle.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1803/trunk/rdflib/syntax/serializers/turtle.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1530/trunk/rdflib/syntax/serializers/__init__.py
+END
+RecursiveSerializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1606/trunk/rdflib/syntax/serializers/RecursiveSerializer.py
+END
+PrettyXMLSerializer.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1757/trunk/rdflib/syntax/serializers/PrettyXMLSerializer.py
+END
+trix.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1801/trunk/rdflib/syntax/serializers/trix.py
+END

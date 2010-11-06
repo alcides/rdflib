@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1756/trunk/rdflib/syntax/parsers/rdfa
+END
+parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1691/trunk/rdflib/syntax/parsers/rdfa/parse.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1691/trunk/rdflib/syntax/parsers/rdfa/options.py
+END
+literal.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1700/trunk/rdflib/syntax/parsers/rdfa/literal.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1756/trunk/rdflib/syntax/parsers/rdfa/__init__.py
+END
+state.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1691/trunk/rdflib/syntax/parsers/rdfa/state.py
+END
+embeddedrdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1691/trunk/rdflib/syntax/parsers/rdfa/embeddedrdf.py
+END

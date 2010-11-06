@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1804/trunk/rdflib/store
+END
+memory.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1804/trunk/rdflib/store/memory.py
+END
+BerkeleyDB.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1783/trunk/rdflib/store/BerkeleyDB.py
+END
+Sleepycat.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1753/trunk/rdflib/store/Sleepycat.py
+END
+BDBOptimized.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1783/trunk/rdflib/store/BDBOptimized.py
+END
+AuditableStorage.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1528/trunk/rdflib/store/AuditableStorage.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1799/trunk/rdflib/store/__init__.py
+END
+IOMemory.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1488/trunk/rdflib/store/IOMemory.py
+END
+AbstractSQLStore.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1758/trunk/rdflib/store/AbstractSQLStore.py
+END
+SQLite.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1754/trunk/rdflib/store/SQLite.py
+END
+Concurrent.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1438/trunk/rdflib/store/Concurrent.py
+END
+REGEXMatching.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1528/trunk/rdflib/store/REGEXMatching.py
+END
+MySQL.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1758/trunk/rdflib/store/MySQL.py
+END
+_sqlobject.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1438/trunk/rdflib/store/_sqlobject.py
+END

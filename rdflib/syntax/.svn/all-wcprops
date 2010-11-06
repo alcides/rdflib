@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1803/trunk/rdflib/syntax
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1438/trunk/rdflib/syntax/__init__.py
+END
+xml_names.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1438/trunk/rdflib/syntax/xml_names.py
+END

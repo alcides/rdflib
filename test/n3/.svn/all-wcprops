@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1759/trunk/test/n3
+END
+example-just_a_class.n3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1708/trunk/test/n3/example-just_a_class.n3
+END
+example-ontology.n3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1708/trunk/test/n3/example-ontology.n3
+END
+rdf-test-20.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-20.n3
+END
+rdf-test-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-02.n3
+END
+rdf-test-12.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-12.n3
+END
+rdf-test-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-04.n3
+END
+rdf-test-22.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-22.n3
+END
+rdf-test-14.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-14.n3
+END
+rdf-test-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-06.n3
+END
+rdf-test-16.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-16.n3
+END
+rdf-test-26.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-26.n3
+END
+rdf-test-18.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-18.n3
+END
+rdf-test-28.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-28.n3
+END
+example-misc.n3
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1708/trunk/test/n3/example-misc.n3
+END
+n3-writer-test-10.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-10.n3
+END
+n3-writer-test-20.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-20.n3
+END
+n3-writer-test-12.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-12.n3
+END
+n3-writer-test-22.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-22.n3
+END
+n3-writer-test-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-04.n3
+END
+n3-writer-test-14.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-14.n3
+END
+n3-writer-test-24.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-24.n3
+END
+n3-writer-test-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-06.n3
+END
+n3-writer-test-16.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-16.n3
+END
+n3-writer-test-26.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-26.n3
+END
+n3-writer-test-08.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-08.n3
+END
+n3-writer-test-18.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-18.n3
+END
+n3-writer-test-28.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-28.n3
+END
+example-lots_of_graphs.n3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1708/trunk/test/n3/example-lots_of_graphs.n3
+END
+rdf-test-11.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-11.n3
+END
+rdf-test-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-03.n3
+END
+rdf-test-21.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-21.n3
+END
+rdf-test-13.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-13.n3
+END
+rdf-test-23.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-23.n3
+END
+rdf-test-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-05.n3
+END
+rdf-test-15.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-15.n3
+END
+listTest.n3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1438/trunk/test/n3/listTest.n3
+END
+rdf-test-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-07.n3
+END
+rdf-test-17.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-17.n3
+END
+rdf-test-27.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1759/trunk/test/n3/rdf-test-27.n3
+END
+rdf-test-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-09.n3
+END
+rdf-test-19.n3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/rdf-test-19.n3
+END
+longString.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1438/trunk/test/n3/longString.rdf
+END
+n3-writer-test-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-01.n3
+END
+n3-writer-test-11.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-11.n3
+END
+longString.n3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1438/trunk/test/n3/longString.n3
+END
+n3-writer-test-21.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-21.n3
+END
+n3-writer-test-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-03.n3
+END
+n3-writer-test-13.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-13.n3
+END
+n3-writer-test-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-05.n3
+END
+n3-writer-test-23.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-23.n3
+END
+n3-writer-test-15.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-15.n3
+END
+n3-writer-test-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-07.n3
+END
+n3-writer-test-17.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-17.n3
+END
+n3-writer-test-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-09.n3
+END
+n3-writer-test-19.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1438/trunk/test/n3/n3-writer-test-19.n3
+END
+n3-writer-test-29.n3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1759/trunk/test/n3/n3-writer-test-29.n3
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1803/trunk/rdflib/syntax/parsers
+END
+rdfxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1790/trunk/rdflib/syntax/parsers/rdfxml.py
+END
+NTParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1735/trunk/rdflib/syntax/parsers/NTParser.py
+END
+notation3.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1765/trunk/rdflib/syntax/parsers/notation3.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1438/trunk/rdflib/syntax/parsers/__init__.py
+END
+ntriples.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1770/trunk/rdflib/syntax/parsers/ntriples.py
+END
+trix.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1803/trunk/rdflib/syntax/parsers/trix.py
+END

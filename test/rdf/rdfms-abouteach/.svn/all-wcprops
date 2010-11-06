@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-abouteach
+END
+error001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-abouteach/error001.rdf
+END
+error002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1777/trunk/test/rdf/rdfms-abouteach/error002.rdf
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1799/trunk/test
+END
+test_sleepycat.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1593/trunk/test/test_sleepycat.py
+END
+test_aggregate_graphs.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1748/trunk/test/test_aggregate_graphs.py
+END
+test_datetime.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1690/trunk/test/test_datetime.py
+END
+test_rdfxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1777/trunk/test/test_rdfxml.py
+END
+test_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1606/trunk/test/test_parser.py
+END
+test_literal.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1788/trunk/test/test_literal.py
+END
+test_bdb_transaction.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1593/trunk/test/test_bdb_transaction.py
+END
+store_performace.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1753/trunk/test/store_performace.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1438/trunk/test/__init__.py
+END
+test_n3_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1606/trunk/test/test_n3_2.py
+END
+test_sparql.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1659/trunk/test/test_sparql.py
+END
+test_mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1597/trunk/test/test_mysql.py
+END
+test_conventions.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1796/trunk/test/test_conventions.py
+END
+test_empty_xml_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1606/trunk/test/test_empty_xml_base.py
+END
+test_json.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1659/trunk/test/test_json.py
+END
+a.n3
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1438/trunk/test/a.n3
+END
+test_rdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1606/trunk/test/test_rdf.py
+END
+type_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1528/trunk/test/type_check.py
+END
+test_n3test.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1708/trunk/test/test_n3test.py
+END
+test_trix_parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1732/trunk/test/test_trix_parse.py
+END
+test_nt.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1778/trunk/test/test_nt.py
+END
+test_context.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1593/trunk/test/test_context.py
+END
+test_seq.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1597/trunk/test/test_seq.py
+END
+test_rdf_lists.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1603/trunk/test/test_rdf_lists.py
+END
+test_rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1599/trunk/test/test_rules.py
+END
+test_store.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1799/trunk/test/test_store.py
+END
+test_trix_serialize.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1732/trunk/test/test_trix_serialize.py
+END
+test_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1780/trunk/test/test_graph.py
+END
+test_events.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1597/trunk/test/test_events.py
+END
+comparison_graph
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1438/trunk/test/comparison_graph
+END
+test_datatype_encoding_mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1593/trunk/test/test_datatype_encoding_mysql.py
+END
+test_term.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1788/trunk/test/test_term.py
+END
+test_prettyxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1606/trunk/test/test_prettyxml.py
+END
+test_comparison.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1767/trunk/test/test_comparison.py
+END
+test_bdb_optimized.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1597/trunk/test/test_bdb_optimized.py
+END
+triple_store.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1679/trunk/test/triple_store.py
+END
+test_n3.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1752/trunk/test/test_n3.py
+END
+test_nttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1759/trunk/test/test_nttest.py
+END
+test_issue084.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1784/trunk/test/test_issue084.py
+END

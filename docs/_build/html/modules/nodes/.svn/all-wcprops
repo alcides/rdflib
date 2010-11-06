@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes
+END
+literal.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/literal.html
+END
+uriref.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/uriref.html
+END
+quoted_graph.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/quoted_graph.html
+END
+identifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/identifier.html
+END
+node.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/node.html
+END
+variable.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/variable.html
+END
+bnode.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/bnode.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1683/trunk/docs/_build/html/modules/nodes/index.html
+END
