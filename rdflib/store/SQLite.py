@@ -405,6 +405,13 @@ class SQLite(AbstractSQLStore):
         result = c.fetchall()
         c.close()
         for rt in result:
+            tmp = []
+            for i,r in enumerate(rt):
+                if r == u"NULL":
+                    tmp.append(None)
+                else:
+                    tmp.append(r)
+            rt = tuple(tmp)
             s,p,o,(graphKlass,idKlass,graphId) = extractTriple(rt,self,context)
             contexts = tripleCoverage.get((s,p,o),[])
             contexts.append(graphKlass(self,idKlass(graphId)))
