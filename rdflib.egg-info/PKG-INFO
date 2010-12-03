@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: rdflib
-Version: 2.5.0.dev-r1804
+Version: 2.5.0.dev
 Summary: RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 Home-page: http://rdflib.net/
 Author: Daniel 'eikeon' Krech
