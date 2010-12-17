@@ -80,6 +80,25 @@ def getValue(param) :
             return value
     return f
 
+
+
+# Operator for sameterm
+def sameterm(a,b) :
+    fa = getValue(a)
+    fb = getValue(b)
+    def f(bindings) :
+        try :
+            return fa(bindings) == fb(bindings)
+        except:
+#            raise
+            # this is the case when the operators are incompatible
+            if Debug :
+                (typ,val,traceback) = sys.exc_info()
+                sys.excepthook(typ,val,traceback)
+            return False
+    return f
+
+
 ##
 # Operator for '&lt;'
 # @param a value or query string
