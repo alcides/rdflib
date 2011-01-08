@@ -232,7 +232,7 @@ def mapToOperator(expr,prolog,combinationArg=None,constraint=False):
         return 'sparqlOperators.regex(%s,%s%s)%s'%(
                  mapToOperator(expr.arg1,prolog,combinationArg,constraint=constraint),
                  mapToOperator(expr.arg2,prolog,combinationArg,constraint=constraint),
-                 expr.arg3 and ',"'+expr.arg3 + '"' or '',
+                 expr.arg3 and ',"'+str(expr.arg3) + '"' or '',
                  combinationInvokation)
     elif isinstance(expr,BuiltinFunctionCall):
         normBuiltInName = FUNCTION_NAMES[expr.name].lower()
